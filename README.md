@@ -1,2 +1,2 @@
 # pytraining
-A set of training sessions for intermediate/advanced Python 
+A set of training sessions for intermediate/advanced Python
