@@ -3,5 +3,4 @@ setup:
 	poetry config virtualenvs.in-project true
 	poetry update
 	poetry lock
-	poetry install
 	poetry run pre-commit install
