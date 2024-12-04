@@ -1,0 +1,11 @@
+tasks:
+  - name: setup
+    init: |
+      python3 -m venv .venv
+      source .venv/bin/activate
+      pip install -r requirements.txt
+    command: |
+      echo "source $(pwd)/.venv/bin/activate" >> ~/.bashrc
+      source .venv/bin/activate
+image:
+  file: .gitpod.Dockerfile
