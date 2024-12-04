@@ -1,4 +1,7 @@
 # pytraining
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jm-begon/pytraining)
+
 A set of training sessions for intermediate/advanced Python.
 
 > Python 3.9 is the basis for the training.
