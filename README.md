@@ -1,6 +1,6 @@
 # pytraining
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jm-begon/pytraining)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jm-begon/pytraining)
 
 A set of training sessions for intermediate/advanced Python.
 
